@@ -1,0 +1,16 @@
+.class1{
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#div1{
+    color: blue;
+    font-size: 36px;
+}
+.class2{
+    font-size: 24px;
+}
+#div2{
+    font-size: 24px;
+    background-color:  rgb(63, 226, 63);
+    font-weight: bold;
+}
