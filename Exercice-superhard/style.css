@@ -1,0 +1,28 @@
+body{
+    background-color: rgba(9, 168, 231, 0.716);
+}
+li{
+    text-align: center;
+    list-style: none;
+}
+li::first-letter{
+   font-size: x-large;
+    
+}
+#wrap{
+    text-align: center;
+    width: fit-content;
+    height: fit-content;
+    border: dashed 10px black;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: grey;
+}
+h1{
+    border-bottom: dashed 10px black;
+    margin-top: auto;
+}
+body{
+    background-image: url(https://i.pinimg.com/736x/de/7f/04/de7f04e97c4678f513cd4c4876ad686a.jpg);
+    background-size: cover;
+}
